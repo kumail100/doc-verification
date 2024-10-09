@@ -1,4 +1,3 @@
-# doc-verification
 AI-Powered Secure Document Verification System on BitcoinSV
 
 Project Overview: “AI-Powered Secure Document Verification System on BitcoinSV”
